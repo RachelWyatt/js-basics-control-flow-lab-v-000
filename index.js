@@ -2,9 +2,9 @@
 function scuberGreetingForFeet(someValue) {
 let result
   if (someValue <= 400){
-    "This one is on me!"
+    result = "This one is on me!"
   } else if (someValue >= 3000) {
-    "I will gladly take your thirty bucks."
+    result = "I will gladly take your thirty bucks."
   }
   return result
 }
