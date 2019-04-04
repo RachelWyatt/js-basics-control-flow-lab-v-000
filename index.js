@@ -2,4 +2,6 @@
 let scuberGreetingForFeet(someValue)
   if (someValue <= 400){
     "This one is on me!"
-  } else if (someValue )
+  } else if (someValue >= 3000) {
+    "That will be 30 dollars"
+  }
