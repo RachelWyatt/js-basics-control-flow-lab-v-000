@@ -12,7 +12,7 @@ let result
 }
 
 function ternaryCheckCity(value) {
-  switch (expression) {
+  switch (result) {
     case value1:
         // Statements
         break;
