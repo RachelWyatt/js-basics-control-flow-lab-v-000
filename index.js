@@ -12,6 +12,7 @@ let result
 }
 
 function ternaryCheckCity(value) {
+  let result;
   switch (result) {
     case value = NYC:
         result = "Ok, sounds good"
