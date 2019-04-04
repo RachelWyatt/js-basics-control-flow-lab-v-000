@@ -2,4 +2,4 @@
 let scuberGreetingForFeet(value)
   if (value<=400){
     "This one is on me!"
-  }
+  } else
