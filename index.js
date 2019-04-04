@@ -17,11 +17,8 @@ function ternaryCheckCity(value) {
     case value = "NYC":
         result = "Ok, sounds good."
         break;
-    case value != "NYC":
-        result = "No go."
-        break;
     default:
-        // Statements
+        result = "No go."
         break;
   }
   return result
