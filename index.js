@@ -28,7 +28,7 @@ function switchOnCharmFromTip(value) {
   let result;
   switch (value) {
     case value = "generous":
-        result = "Ok, sounds good."
+        result = "Thank you so much."
         break;
     case value = "not as generous":
         result = "Ok, sounds good."
