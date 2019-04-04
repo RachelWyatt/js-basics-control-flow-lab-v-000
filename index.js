@@ -13,7 +13,7 @@ let result
 
 function ternaryCheckCity(value) {
   let result;
-  condition ? expression1 : expression2;
+  value === "NYC" ? "Ok, sounds good." : "No go.";
   switch (value) {
     case value = "NYC":
         result = "Ok, sounds good."
