@@ -13,8 +13,8 @@ let result
 
 function ternaryCheckCity(value) {
   switch (result) {
-    case value1:
-        // Statements
+    case value = NYC:
+        result = "Ok, sounds good"
         break;
     case value2:
         // Statements
@@ -22,5 +22,6 @@ function ternaryCheckCity(value) {
     default:
         // Statements
         break;
+  }
   
 }
