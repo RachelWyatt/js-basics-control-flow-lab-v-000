@@ -27,7 +27,10 @@ function ternaryCheckCity(value) {
 function switchOnCharmFromTip(value) {
   let result;
   switch (value) {
-    case value = "NYC":
+    case value = "generous":
+        result = "Ok, sounds good."
+        break;
+    case value = "generous":
         result = "Ok, sounds good."
         break;
     default:
