@@ -20,9 +20,6 @@ function ternaryCheckCity(value) {
     case value != "NYC":
         result = "No go."
         break;
-    default:
-        // Statements
-        break;
   }
   return result
 }
