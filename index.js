@@ -31,10 +31,10 @@ function switchOnCharmFromTip(value) {
         result = "Thank you so much."
         break;
     case value = "not as generous":
-        result = "Ok, sounds good."
+        result = "Thank you."
         break;
     default:
-        result = "No go."
+        result = "Bye."
         break;
   }
   return result
