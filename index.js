@@ -10,3 +10,8 @@ let result
   } 
   return result
 }
+
+function ternaryCheckCity(value) {
+  
+  
+}
