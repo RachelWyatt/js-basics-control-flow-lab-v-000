@@ -23,3 +23,16 @@ function ternaryCheckCity(value) {
   }
   return result
 }
+
+function ternaryCheckCity(value) {
+  let result;
+  switch (value) {
+    case value = "NYC":
+        result = "Ok, sounds good."
+        break;
+    default:
+        result = "No go."
+        break;
+  }
+  return result
+}
