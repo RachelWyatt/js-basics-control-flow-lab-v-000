@@ -23,5 +23,5 @@ function ternaryCheckCity(value) {
         // Statements
         break;
   }
-  
+  return result
 }
