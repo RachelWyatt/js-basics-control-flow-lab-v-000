@@ -14,13 +14,3 @@ let result
 function ternaryCheckCity(value) {
   let result;
   value === "NYC" ? "Ok, sounds good." : "No go.";
-  switch (value) {
-    case value = "NYC":
-        result = "Ok, sounds good."
-        break;
-    default:
-        result = "No go."
-        break;
-  }
-  return result
-}
